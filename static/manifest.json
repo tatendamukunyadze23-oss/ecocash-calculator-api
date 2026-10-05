@@ -1,0 +1,15 @@
+{
+  "name": "EcoCash Bindura Calculator",
+  "short_name": "EcoCash",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0052cc",
+  "theme_color": "#0052cc",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/2830/2830284.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
